@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋, I'm lisallah</h1>
 <h4 align="center">My background is telecommunication engineering, but I'm very happy with technology ❤️‍🔥 currently I'm studying about data science 📊 and artificial intelligence 🤖 
-  
-### #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@alla-codedex/30-nites-of-code) 
-![@alla-codedex #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alla-codedex) 
 
 <h4>
   

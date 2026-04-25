@@ -1,39 +1,156 @@
-<h1 align="center">Hi there 👋, I'm lisallah</h1>
-<h4 align="center">My background is telecommunication engineering, but I'm very happy with technology ❤️‍🔥 currently I'm studying about data science 📊 and artificial intelligence 🤖 
+<div align="center">
 
-<h4>
-  
-- 🌱 I’m currently learning **NLP, AI, Data Science, QA and 5G**
-  
-- 📫 How to reach me **lisallah002@gmail.com**
+```
+ ██████╗ ██╗  ██╗ ██╗  ██╗██╗     ██╗      █████╗ 
+██╔═████╗╚██╗██╔╝ ██║  ██║██║     ██║     ██╔══██╗
+██║██╔██║ ╚███╔╝  ███████║██║     ██║     ███████║
+████╔╝██║ ██╔██╗  ╚════██║██║     ██║     ██╔══██║
+╚██████╔╝██╔╝ ██╗      ██║███████╗███████╗██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝      ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lisallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lisallah" height="30" width="40" /></a>
-<a href="https://instagram.com/sa.lisallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sa.lisallah" height="30" width="40" /></a>
-</p>
+### `whoami`
+**Penetration Tester | AI Engineer | QA Engineer**  
+*Telecommunication Engineering grad breaking things (ethically) since day one*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-allathm-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/allathm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lisallah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lisallah)
+[![Instagram](https://img.shields.io/badge/Instagram-sa.lisallah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sa.lisallah)
+[![Email](https://img.shields.io/badge/Email-lisallah002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisallah002@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisallah20&show_icons=true&locale=en&layout=compact" alt="lisallah20" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisallah20&show_icons=true&locale=en" alt="lisallah20" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisallah20&" alt="lisallah20" /></p>
+## 🎯 About Me
 
+```bash
+$ cat /etc/profile.d/0x4lla.sh
+```
 
-<!--
-**lisallah20/lisallah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+> Name      : Lisallah (0x4lla)
+> Role      : Junior Penetration Tester
+> Location  : Indonesia 🇮🇩 (UTC+07:00)
+> Background: Telecommunication Engineering
+> Mission   : Break things ethically. Build things securely.
+> Status    : Always learning, always hacking (the legal way)
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cybersecurity — Primary Focus
+
+> *"The quieter you become, the more you are able to hear."* — Kali Linux motto
+
+### ⚔️ Offensive Security Skills
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Competencies:**
+- 🔍 **Reconnaissance** — OSINT, network enumeration, subdomain discovery
+- 🌐 **Web Application Testing** — OWASP Top 10, SQL injection, XSS, IDOR, authentication bypass
+- 🔓 **Privilege Escalation** — Linux/Windows privesc techniques
+- 📡 **Network Pentesting** — port scanning, service enumeration, traffic analysis
+- 🧩 **CTF Challenges** — active participant on TryHackMe
+
+---
+
+### 🏅 TryHackMe Progress
+
+<div align="center">
+
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/allathm.png)](https://tryhackme.com/p/allathm)
+
+> 🔗 Full badge collection → [tryhackme.com/p/allathm?tab=badges](https://tryhackme.com/p/allathm?tab=badges)
+
+</div>
+
+---
+
+## 🤖 AI Engineering — Secondary Focus
+
+> From data pipelines to deployed models — I speak both Python and neural networks.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Highlights:**
+- 🧠 Built NLP models for **Hoax/Fake News Detection** (Final Project)
+- 🎓 Completed Indonesia AI program — submitted multiple ML projects
+- 📊 Experience with classification, NLP pipelines & model evaluation
+
+---
+
+## 🧪 QA Engineering — Tertiary Focus
+
+> If it can be broken, I'll find it — in production or in testing.
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Highlights:**
+- ✅ API testing with **Postman** — REST endpoint validation & collection automation
+- 🔁 CI/CD pipelines with **Jenkins** (Dicoding certified)
+- 🖥️ E2E testing with **Cypress**
+- 📈 Monitoring dashboards with **Grafana**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisallah20&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lisallah20&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisallah20&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 🗂️ Featured Repositories
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔍 FinalProject_DetectionHoax](https://github.com/lisallah20/FinalProject_DetectionHoax) | NLP model for hoax detection | Python, ML |
+| [🤖 IndonesiaAI_ProjectSubmission](https://github.com/lisallah20/IndonesiaAI_ProjectSubmission) | AI/ML project submissions | Jupyter |
+| [🛒 project-wit-2023](https://github.com/lisallah20/project-wit-2023) | E-commerce web app | Django, Python |
+| [⚙️ dicoding-belajar-cicd](https://github.com/lisallah20/dicoding-belajar-cicd) | CI/CD implementation lab | Jenkins |
+
+---
+
+## 📚 Currently Learning
+
+```
+[##########··········] 50%  Advanced Web Application Pentesting
+[########············] 40%  Active Directory Attacks
+[##########··········] 50%  AI Security & Adversarial ML
+[############········] 60%  Cloud Security (AWS)
+```
+
+---
+
+<div align="center">
+
+*"In cybersecurity, the attacker only needs to be right once. The defender needs to be right every time. So I choose to think like the attacker."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=lisallah20&label=Profile+Views&color=58a6ff&style=flat-square)
+
+**⚡ Available for collaborations on CTFs, security research & open source projects**
+
+</div>

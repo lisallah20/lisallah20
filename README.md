@@ -59,6 +59,18 @@ $ cat /etc/profile.d/0x4lla.sh
 - 🧩 **CTF Challenges** — active participant on TryHackMe
 
 ---
+### 🟢 HackTheBox Badges
+
+<p align="left">
+  <img src="https://academy.hackthebox.com/storage/badges/everything-is-connected.png" width="80" title="Everything is Connected"/>
+  <img src="https://academy.hackthebox.com/storage/badges/tactical.png" width="80" title="Tactical"/>
+  <img src="https://academy.hackthebox.com/storage/badges/philomath.png" width="80" title="Philomath"/>
+  <img src="https://academy.hackthebox.com/storage/badges/academician.png" width="80" title="Academician"/>
+  <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="80" title="Unwavering User"/>
+</p>
+
+> 🔗 Full profile → [hackthebox.com/profile/264ll4](https://profile.hackthebox.com/profile/019d47bd-0b10-7259-b55b-17bb7d43de64)
+---
 
 ### 🏅 TryHackMe Badges
 <div align="left">

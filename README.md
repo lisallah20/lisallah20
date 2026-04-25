@@ -66,9 +66,9 @@ $ cat /etc/profile.d/0x4lla.sh
 
 <div align="center">
 
-| <a href="https://tryhackme.com/allathm/badges/leagues-chaos"><img src="./assets/badges/leagues-chaos.svg" width="100" alt="Chaos League"/><br/>Chaos League</a> | <a href="https://tryhackme.com/allathm/badges/terminaled"><img src="./assets/badges/terminaled.svg" width="100" alt="Terminaled"/><br/>Terminaled</a> | <a href="https://tryhackme.com/allathm/badges/web-fund"><img src="./assets/badges/web-fund.svg" width="100" alt="Web Fundamentals"/><br/>Web Fundamentals</a> | <a href="https://tryhackme.com/allathm/badges/blue"><img src="./assets/badges/blue.svg" width="100" alt="Blue"/><br/>Blue</a> |
+| <a href="https://tryhackme.com/allathm/badges/leagues-chaos"><img src="./assets/badges/leagues-chaos.png" width="100" alt="Chaos League"/><br/>Chaos League</a> | <a href="https://tryhackme.com/allathm/badges/terminaled"><img src="./assets/badges/terminaled.png" width="100" alt="Terminaled"/><br/>Terminaled</a> | <a href="https://tryhackme.com/allathm/badges/web-fund"><img src="./assets/badges/web-fund.png" width="100" alt="Web Fundamentals"/><br/>Web Fundamentals</a> | <a href="https://tryhackme.com/allathm/badges/blue"><img src="./assets/badges/blue.png" width="100" alt="Blue"/><br/>Blue</a> |
 |:---:|:---:|:---:|:---:|
-| <a href="https://tryhackme.com/allathm/badges/metasploitable"><img src="./assets/badges/metasploitable.svg" width="100" alt="Metasploitable"/><br/>Metasploitable</a> | <a href="https://tryhackme.com/allathm/badges/owasp-10"><img src="./assets/badges/owasp-10.svg" width="100" alt="OWASP Top 10"/><br/>OWASP Top 10</a> | <a href="https://tryhackme.com/allathm/badges/burped"><img src="./assets/badges/burped.svg" width="100" alt="Burped"/><br/>Burped</a> | |
+| <a href="https://tryhackme.com/allathm/badges/metasploitable"><img src="./assets/badges/metasploitable.png" width="100" alt="Metasploitable"/><br/>Metasploitable</a> | <a href="https://tryhackme.com/allathm/badges/owasp-10"><img src="./assets/badges/owasp-10.png" width="100" alt="OWASP Top 10"/><br/>OWASP Top 10</a> | <a href="https://tryhackme.com/allathm/badges/burped"><img src="./assets/badges/burped.png" width="100" alt="Burped"/><br/>Burped</a> | |
 
 > 🔗 Full badge collection → [tryhackme.com/p/allathm?tab=badges](https://tryhackme.com/p/allathm?tab=badges)
 

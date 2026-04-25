@@ -65,11 +65,17 @@ $ cat /etc/profile.d/0x4lla.sh
 <!-- Badge images are auto-downloaded daily via GitHub Actions (.github/workflows/update-thm-badge.yml) -->
 
 <div align="center">
-
-| <a href="https://tryhackme.com/allathm/badges/metasploitable"><img src="./assets/badges/metasploitable.png" width="100" alt="Metasploitable"/><br/>Metasploitable</a> | <a href="https://tryhackme.com/allathm/badges/owasp-10"><img src="./assets/badges/owasp-10.png" width="100" alt="OWASP Top 10"/><br/>OWASP Top 10</a> | <a href="https://tryhackme.com/allathm/badges/burped"><img src="./assets/badges/burped.png" width="100" alt="Burped"/><br/>Burped</a> | |
-
+| Badge | Description |
+|-------|-------------|
+| 🏆 [Chaos League](https://tryhackme.com/allathm/badges/leagues-chaos) | Competed in TryHackMe League |
+| 💻 [Terminaled](https://tryhackme.com/allathm/badges/terminaled) | Mastered terminal & Linux CLI |
+| 🌐 [Web Fundamentals](https://tryhackme.com/allathm/badges/web-fund) | Completed web fundamentals path |
+| 🔵 [Blue](https://tryhackme.com/allathm/badges/blue) | Exploited EternalBlue vulnerability |
+| 🐚 [Metasploitable](https://tryhackme.com/allathm/badges/metasploitable) | Completed Metasploit framework room |
+| 🛡️ [OWASP Top 10](https://tryhackme.com/allathm/badges/owasp-10) | Learned all OWASP Top 10 vulnerabilities |
+| 🔍 [Burped](https://tryhackme.com/allathm/badges/burped) | Intercepted requests with Burp Suite |
+ 
 > 🔗 Full badge collection → [tryhackme.com/p/allathm?tab=badges](https://tryhackme.com/p/allathm?tab=badges)
-
 </div>
 
 ---

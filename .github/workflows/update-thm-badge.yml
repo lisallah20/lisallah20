@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'   # runs every day at midnight UTC
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
+permissions:
+  contents: write           # required: allows the workflow to commit & push files
+
 jobs:
   update-thm-badge:
     name: Fetch & commit latest TryHackMe badge
@@ -12,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4   # pinned to major version per GitHub docs recommendation
 
       - name: Create assets folder
         run: mkdir -p assets
@@ -29,5 +32,3 @@ jobs:
           git add assets/thm_badge.png
           git diff --cached --quiet || git commit -m "chore: update TryHackMe badge [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

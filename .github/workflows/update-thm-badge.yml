@@ -1,46 +1,85 @@
-name: 🔄 Update TryHackMe Badges
+name: 🔄 Download TryHackMe Badges
 
 on:
-  schedule:
-    - cron: '0 0 * * *'   # runs every day at midnight UTC
-  workflow_dispatch:        # allows manual trigger from GitHub UI
+  workflow_dispatch: # manual trigger only — badges are static achievements
 
 permissions:
-  contents: write           # required: allows the workflow to commit & push files
+  contents: write
 
 jobs:
-  update-thm-badges:
-    name: Fetch & commit latest TryHackMe badges
+  download-thm-badges:
+    name: Screenshot & save TryHackMe badge images
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium --with-deps
+
       - name: Create badges folder
         run: mkdir -p assets/badges
 
-      - name: Download TryHackMe badge images
+      - name: Screenshot each badge
         run: |
-          BASE="https://assets.tryhackme.com/img/badges"
-          BADGES=(
-            "leagues-chaos"
-            "terminaled"
-            "web-fund"
-            "blue"
-            "metasploitable"
-            "owasp-10"
-            "burped"
-          )
-          for badge in "${BADGES[@]}"; do
-            echo "Downloading $badge..."
-            curl -sL "$BASE/$badge.svg" -o "assets/badges/$badge.svg"
-          done
+          node << 'SCRIPT'
+          const { chromium } = require('playwright');
+          const path = require('path');
 
-      - name: Commit & push if badges changed
+          const badges = [
+            'leagues-chaos',
+            'terminaled',
+            'web-fund',
+            'blue',
+            'metasploitable',
+            'owasp-10',
+            'burped',
+          ];
+
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+
+            for (const badge of badges) {
+              const url = `https://tryhackme.com/allathm/badges/${badge}`;
+              console.log(`Visiting: ${url}`);
+              await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+
+              // Wait for the badge image to appear
+              await page.waitForSelector('img[src*="badge"], img[src*="Badge"], img[alt*="badge"], img[alt*="Badge"]', { timeout: 15000 })
+                .catch(() => console.log(`Selector not found for ${badge}, falling back to full page`));
+
+              // Try to grab just the badge image element
+              const badgeImg = await page.$('img[src*="badge"], img[src*="Badge"]');
+              const outPath = `assets/badges/${badge}.png`;
+
+              if (badgeImg) {
+                await badgeImg.screenshot({ path: outPath });
+                console.log(`✅ Saved badge image: ${outPath}`);
+              } else {
+                // Fallback: screenshot the whole page clipped to center
+                await page.screenshot({ path: outPath, clip: { x: 200, y: 100, width: 800, height: 500 } });
+                console.log(`⚠️  Fallback screenshot saved: ${outPath}`);
+              }
+            }
+
+            await browser.close();
+          })();
+          SCRIPT
+
+      - name: Commit & push badges
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/badges/
-          git diff --cached --quiet || git commit -m "chore: update TryHackMe badges [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: add TryHackMe badge images [skip ci]"
           git push

@@ -61,19 +61,15 @@ $ cat /etc/profile.d/0x4lla.sh
 ---
 
 ### 🏅 TryHackMe Badges
-
-<!-- Badge images are auto-downloaded daily via GitHub Actions (.github/workflows/update-thm-badge.yml) -->
-
 <div align="left">
-| Badge | Description |
-|-------|-------------|
-| 🏆 [Chaos League](https://tryhackme.com/allathm/badges/leagues-chaos) | Competed in TryHackMe League |
-| 💻 [Terminaled](https://tryhackme.com/allathm/badges/terminaled) | Mastered terminal & Linux CLI |
-| 🌐 [Web Fundamentals](https://tryhackme.com/allathm/badges/web-fund) | Completed web fundamentals path |
-| 🔵 [Blue](https://tryhackme.com/allathm/badges/blue) | Exploited EternalBlue vulnerability |
-| 🐚 [Metasploitable](https://tryhackme.com/allathm/badges/metasploitable) | Completed Metasploit framework room |
-| 🛡️ [OWASP Top 10](https://tryhackme.com/allathm/badges/owasp-10) | Learned all OWASP Top 10 vulnerabilities |
-| 🔍 [Burped](https://tryhackme.com/allathm/badges/burped) | Intercepted requests with Burp Suite |
+
+[![Chaos League](https://img.shields.io/badge/Chaos_League-Competed-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/leagues-chaos)
+[![Terminaled](https://img.shields.io/badge/Terminaled-Linux_CLI-brightgreen?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/terminaled)
+[![Web Fundamentals](https://img.shields.io/badge/Web_Fundamentals-Completed-blue?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/web-fund)
+[![Blue](https://img.shields.io/badge/Blue-EternalBlue-4B8BBE?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/blue)
+[![Metasploitable](https://img.shields.io/badge/Metasploitable-Completed-2596CD?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/metasploitable)
+[![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-Completed-orange?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/owasp-10)
+[![Burped](https://img.shields.io/badge/Burped-Burp_Suite-FF6633?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/allathm/badges/burped)
  
 > 🔗 Full badge collection → [tryhackme.com/p/allathm?tab=badges](https://tryhackme.com/p/allathm?tab=badges)
 </div>

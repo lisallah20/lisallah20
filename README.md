@@ -67,7 +67,8 @@ $ cat /etc/profile.d/0x4lla.sh
 
 <div align="center">
 
-[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/allathm.png)](https://tryhackme.com/p/allathm)
+<!-- TryHackMe badge — auto-updated daily via GitHub Actions (see .github/workflows/update-thm-badge.yml) -->
+[![TryHackMe Stats](./assets/thm_badge.png)](https://tryhackme.com/p/allathm)
 
 > 🔗 Full badge collection → [tryhackme.com/p/allathm?tab=badges](https://tryhackme.com/p/allathm?tab=badges)
 
@@ -117,8 +118,6 @@ $ cat /etc/profile.d/0x4lla.sh
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lisallah20&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisallah20&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
-
 </div>
 
 ---
@@ -134,16 +133,6 @@ $ cat /etc/profile.d/0x4lla.sh
 
 ---
 
-## 📚 Currently Learning
-
-```
-[##########··········] 50%  Advanced Web Application Pentesting
-[########············] 40%  Active Directory Attacks
-[##########··········] 50%  AI Security & Adversarial ML
-[############········] 60%  Cloud Security (AWS)
-```
-
----
 
 <div align="center">
 

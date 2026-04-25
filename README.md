@@ -64,7 +64,7 @@ $ cat /etc/profile.d/0x4lla.sh
 
 <!-- Badge images are auto-downloaded daily via GitHub Actions (.github/workflows/update-thm-badge.yml) -->
 
-<div align="center">
+<div align="left">
 | Badge | Description |
 |-------|-------------|
 | 🏆 [Chaos League](https://tryhackme.com/allathm/badges/leagues-chaos) | Competed in TryHackMe League |
